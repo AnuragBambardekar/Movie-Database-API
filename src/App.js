@@ -15,7 +15,7 @@ import './App.css';
 
 } */
 
-const API_URL = 'http://www.omdbapi.com?apikey=6e7442';
+const API_URL = 'http://www.omdbapi.com?apikey={YOUR_API_KEY}';
 
 const App = () => {
 
