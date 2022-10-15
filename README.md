@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Movie Database - omdbapi
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Using ReactJS, fetched searched requests (movie names) and searched it using OMDB API. The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users.
+
+Send all data requests to:
+
+http://www.omdbapi.com/?apikey=[yourkey]&
+
+To Execute program, In console type:
+npm run start
+
+## Output
+![Alt text](/moviedb_op.png "Movie Database using ReactJS and OMDB API")
 
 ## Available Scripts
 
